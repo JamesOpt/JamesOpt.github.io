@@ -7,9 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 12 Mar 2020 17:11:52 +0800</lastBuildDate>
     
 	<atom:link href="JamesOpt.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>解决Homebrew下载极其“快速”问题</title>
+      <link>JamesOpt.github.io/brew/</link>
+      <pubDate>Thu, 12 Mar 2020 17:11:52 +0800</pubDate>
+      
+      <guid>JamesOpt.github.io/brew/</guid>
+      <description>解决Homebrew下载极其“快速”问题  What? Homebrew是什么？都2020年了。　我也不知道！
+ 当你运行 brew update，你会发现你可以看着屏幕一整天。
+# 运行过程。。。 brew update --verbose Checking if we need to fetch /usr/local/Homebrew... Checking if we need to fetch /usr/local/Homebrew/Library/Taps/caskroom/homebrew-fonts... Fetching /usr/local/Homebrew... Checking if we need to fetch /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask... Checking if we need to fetch /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core... Fetching /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask... Fetching /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core... remote: Enumerating objects: 337, done. remote: Counting objects: 100% (337/337), done. remote: Compressing objects: 100% (88/88), done. remote: Total 298 (delta 221), reused 287 (delta 210), pack-reused 0 Receiving objects: 100% (298/298), 50.</description>
+    </item>
     
   </channel>
 </rss>
