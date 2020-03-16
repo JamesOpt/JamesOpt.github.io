@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>brew on 1&#43;1&gt;2</title>
-    <link>/tags/brew/</link>
+    <link>https://jamesopt.github.io/tags/brew/</link>
     <description>Recent content in brew on 1&#43;1&gt;2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2019 - 2020, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Thu, 12 Mar 2020 17:11:52 +0800</lastBuildDate>
     
-	<atom:link href="/tags/brew/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jamesopt.github.io/tags/brew/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>解决Homebrew下载极其“快速”问题</title>
-      <link>/post/brew/</link>
+      <link>https://jamesopt.github.io/post/brew/</link>
       <pubDate>Thu, 12 Mar 2020 17:11:52 +0800</pubDate>
       
-      <guid>/post/brew/</guid>
+      <guid>https://jamesopt.github.io/post/brew/</guid>
       <description>解决Homebrew下载极其“快速”问题 Homebrew是什么？
  The Missing Package Manager for macOS (or Linux)
  当你运行 brew update，你会发现你可以看着屏幕一整天。
