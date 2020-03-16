@@ -7,9 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2019 - 2020, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 12 Mar 2020 17:11:52 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>brew</title>
+      <link>/tags/brew/</link>
+      <pubDate>Thu, 12 Mar 2020 17:11:52 +0800</pubDate>
+      
+      <guid>/tags/brew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homebrew</title>
+      <link>/tags/homebrew/</link>
+      <pubDate>Thu, 12 Mar 2020 17:11:52 +0800</pubDate>
+      
+      <guid>/tags/homebrew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>镜像源</title>
+      <link>/tags/%E9%95%9C%E5%83%8F%E6%BA%90/</link>
+      <pubDate>Thu, 12 Mar 2020 17:11:52 +0800</pubDate>
+      
+      <guid>/tags/%E9%95%9C%E5%83%8F%E6%BA%90/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

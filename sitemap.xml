@@ -13,7 +13,22 @@
   </url>
   
   <url>
+    <loc>/tags/brew/</loc>
+    <lastmod>2020-03-12T17:11:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/homebrew/</loc>
+    <lastmod>2020-03-12T17:11:52+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+    <lastmod>2020-03-12T17:11:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-03-12T17:11:52+08:00</lastmod>
   </url>
   
@@ -23,7 +38,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/%E9%95%9C%E5%83%8F%E6%BA%90/</loc>
+    <lastmod>2020-03-12T17:11:52+08:00</lastmod>
   </url>
   
   <url>
